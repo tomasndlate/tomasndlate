@@ -1,9 +1,20 @@
 ## Hi there! 👋 I'm Tomas
 
-🚀 Software Engineer | AI Master's Student  
-💡 Passionate about Software Development, AI, and Serverless Cloud  
-🎓 Currently exploring Deep Reinforcement Learning in Computer Vision for my thesis  
-📍 Based in Dublin  
+Software Engineer | AI & Cloud Enthusiast
+
+I’m a Software Engineer with two years of experience in cloud computing, AI, and full-stack development. At Fidelity Investments, I work on developing full-stack applications, cloud architecture, and CI/CD using AWS, Docker, Spring Boot, and Angular.
+
+Passionate about AI-powered solutions, I’ve built projects like:
+
+
+- ⏳ Experiment.AI – A full-stack AI web app with Next.js, Stripe, PostgreSQL, and AWS Lambda. 
+
+- ✔ Spam Detection System – A machine learning app leveraging AWS serverless infrastructure. 
+
+- ✔ Web Chess Platform – A Java-based chess game with legal move validation. 
+
+
+Currently pursuing a Master’s in AI, I’m AWS-certified and always exploring new technologies. Let’s connect! 🚀
 
 ### 🚀 Tech Stack
 
@@ -31,6 +42,8 @@
 
 ### 🔥 Featured Projects
 - 🛠 [ml-spam-detector](https://tomasndlate.github.io/ml-spam-detector/) - Spam detection using ML and AWS
+- 🧠 [experiment-ai](https://github.com/tomasndlate/ml-subscription-model) - Web app to interact with different AI models
+
 
 ### 📫 Connect with me  
 - LinkedIn: [Tomas Ndlate](https://www.linkedin.com/in/tomasndlate/)
